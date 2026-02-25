@@ -1,0 +1,27 @@
+{
+  "name": "@claudeborne/cli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "claudeborne": "./dist/index.js"
+  },
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@claudeborne/shared": "*",
+    "express": "^5.1.0",
+    "open": "^10.1.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/ws": "^8.5.13",
+    "esbuild": "^0.27.3",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

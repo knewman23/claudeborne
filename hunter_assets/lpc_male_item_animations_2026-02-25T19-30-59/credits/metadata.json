@@ -1,0 +1,217 @@
+{
+  "exportTimestamp": "2026-02-25T19-30-59",
+  "bodyType": "male",
+  "standardAnimations": {
+    "exported": {
+      "spellcast": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "055 frock_coat__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "thrust": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "055 frock_coat__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "walk": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "055 frock_coat__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png",
+        "140 smash__axe_.png"
+      ],
+      "slash": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "055 frock_coat__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "shoot": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "055 frock_coat__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "hurt": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "055 frock_coat__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "climb": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "idle": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "jump": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "sit": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "emote": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "run": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "combat": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "1h_backslash": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ],
+      "1h_halfslash": [
+        "010 body_color__light_.png",
+        "100 human_male__light_.png",
+        "101 neutral__light_.png",
+        "130 tricorne_lieutenant__black_.png",
+        "036 longsleeves_2_overlay__black_.png",
+        "035 longsleeve__black_.png",
+        "020 formal_pants__black_.png",
+        "015 basic_shoes__black_.png"
+      ]
+    },
+    "failed": {
+      "spellcast": [],
+      "thrust": [],
+      "walk": [],
+      "slash": [],
+      "shoot": [],
+      "hurt": [],
+      "climb": [],
+      "idle": [],
+      "jump": [],
+      "sit": [],
+      "emote": [],
+      "run": [],
+      "combat": [],
+      "1h_backslash": [],
+      "1h_halfslash": []
+    }
+  },
+  "customAnimations": {
+    "exported": {
+      "slash_oversize": [
+        "008 weapon_polearm_scythe_.png",
+        "150 weapon_polearm_scythe_.png"
+      ],
+      "slash": [],
+      "slash_128": [
+        "009 tool_smash_.png",
+        "150 tool_smash_.png"
+      ]
+    },
+    "failed": {
+      "slash": [
+        "010 body_.png",
+        "015 feet_shoes_basic_.png",
+        "020 legs_formal_.png",
+        "035 torso_clothes_longsleeve_.png",
+        "036 torso_clothes_longsleeves2_.png",
+        "055 torso_jacket_frock_.png",
+        "100 heads_human_male_.png",
+        "101 face_neutral_.png",
+        "130 hat_tricorne_.png",
+        "010 body_.png",
+        "015 feet_shoes_basic_.png",
+        "020 legs_formal_.png",
+        "035 torso_clothes_longsleeve_.png",
+        "036 torso_clothes_longsleeves2_.png",
+        "055 torso_jacket_frock_.png",
+        "100 heads_human_male_.png",
+        "101 face_neutral_.png",
+        "130 hat_tricorne_lieutenant_.png"
+      ]
+    }
+  },
+  "frameSize": 64,
+  "frameCounts": {}
+}
